@@ -1,0 +1,7 @@
+/* Basic mixin */
+.transition(@values:all, @duration:0.25s, @easing:ease-in-out) {
+	-webkit-transition: @values @duration @easing;
+	-moz-transition: @values @duration @easing;
+	-o-transition: @values @duration @easing;
+	transition: @values @duration @easing;
+}

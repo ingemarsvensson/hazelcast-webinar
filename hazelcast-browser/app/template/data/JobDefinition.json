@@ -1,0 +1,313 @@
+{
+	"data":
+	[
+		{
+			"JobDefinitionID": 28,
+			"TenantID": 5,
+			"Name": "MAC + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:50"
+		},
+		{
+			"JobDefinitionID": 27,
+			"TenantID": 5,
+			"Name": "MAC TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:49"
+		},
+		{
+			"JobDefinitionID": 26,
+			"TenantID": 5,
+			"Name": "FIXED INCOME + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:49"
+		},
+		{
+			"JobDefinitionID": 25,
+			"TenantID": 5,
+			"Name": "FIXED INCOME + EXPLICIT STRESS TEST",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:49"
+		},
+		{
+			"JobDefinitionID": 24,
+			"TenantID": 5,
+			"Name": "FIXED INCOME TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:48"
+		},
+		{
+			"JobDefinitionID": 23,
+			"TenantID": 5,
+			"Name": "EQUITY + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:48"
+		},
+		{
+			"JobDefinitionID": 22,
+			"TenantID": 5,
+			"Name": "EQUITY TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-22 16:19:48"
+		},
+		{
+			"JobDefinitionID": 21,
+			"TenantID": 7,
+			"Name": "MAC + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:52"
+		},
+		{
+			"JobDefinitionID": 20,
+			"TenantID": 7,
+			"Name": "MAC TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:51"
+		},
+		{
+			"JobDefinitionID": 19,
+			"TenantID": 7,
+			"Name": "FIXED INCOME + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:50"
+		},
+		{
+			"JobDefinitionID": 18,
+			"TenantID": 7,
+			"Name": "FIXED INCOME + EXPLICIT STRESS TEST",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:50"
+		},
+		{
+			"JobDefinitionID": 17,
+			"TenantID": 7,
+			"Name": "FIXED INCOME TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:49"
+		},
+		{
+			"JobDefinitionID": 16,
+			"TenantID": 7,
+			"Name": "EQUITY + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:49"
+		},
+		{
+			"JobDefinitionID": 15,
+			"TenantID": 7,
+			"Name": "EQUITY TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-12 13:40:48"
+		},
+		{
+			"JobDefinitionID": 14,
+			"TenantID": 4,
+			"Name": "MAC + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:21:01"
+		},
+		{
+			"JobDefinitionID": 13,
+			"TenantID": 4,
+			"Name": "MAC TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:59"
+		},
+		{
+			"JobDefinitionID": 12,
+			"TenantID": 4,
+			"Name": "FIXED INCOME + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:59"
+		},
+		{
+			"JobDefinitionID": 11,
+			"TenantID": 4,
+			"Name": "FIXED INCOME + EXPLICIT STRESS TEST",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:58"
+		},
+		{
+			"JobDefinitionID": 10,
+			"TenantID": 4,
+			"Name": "FIXED INCOME TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:58"
+		},
+		{
+			"JobDefinitionID": 9,
+			"TenantID": 4,
+			"Name": "EQUITY + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:57"
+		},
+		{
+			"JobDefinitionID": 8,
+			"TenantID": 4,
+			"Name": "EQUITY TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:20:57"
+		},
+		{
+			"JobDefinitionID": 7,
+			"TenantID": 1,
+			"Name": "MAC + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:29"
+		},
+		{
+			"JobDefinitionID": 6,
+			"TenantID": 1,
+			"Name": "MAC TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:29"
+		},
+		{
+			"JobDefinitionID": 5,
+			"TenantID": 1,
+			"Name": "FIXED INCOME + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:28"
+		},
+		{
+			"JobDefinitionID": 4,
+			"TenantID": 1,
+			"Name": "FIXED INCOME + EXPLICIT STRESS TEST",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:27"
+		},
+		{
+			"JobDefinitionID": 3,
+			"TenantID": 1,
+			"Name": "FIXED INCOME TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:27"
+		},
+		{
+			"JobDefinitionID": 2,
+			"TenantID": 1,
+			"Name": "EQUITY + MONTE CARLO TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:26"
+		},
+		{
+			"JobDefinitionID": 1,
+			"TenantID": 1,
+			"Name": "EQUITY TEMPLATE",
+			"SystematicSpecificAttribution": "QUADRATIC",
+			"DataPreference": "APT",
+			"ScenarioTypeID": null,
+			"IncludeHistoricScenarios": "00000001",
+			"CreatedBy": "data init",
+			"CreatedDate": "2014-09-05 17:19:26"
+		}
+	]
+}

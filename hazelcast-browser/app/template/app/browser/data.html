@@ -1,0 +1,49 @@
+
+	<div ng-include="'app/header/header.html'"></div>
+
+	<div id="newview">
+
+		<aside>
+			<ul ng-if="routeParams.database">
+				<li ng-repeat="(key,value) in collections" ng-class="{selected: routeParams.collection == key}"><a href="#/data/{{routeParams.database}}/{{key}}">{{key}} <i class="fa fa-chevron-down" ng-if="routeParams.collection != key"></i></a> <ul ng-if="routeParams.collection == key">
+					<li ng-repeat="(key,value) in data[0]" ng-click="append(key,$event)">{{key}}</li>
+				</ul></li>
+			</ul>
+			<ul ng-if="!routeParams.database">
+				<li ng-repeat="(key,value) in collections"><a href="#/data/{{key}}">{{key}}</a></li>
+			</ul>
+		</aside>
+
+		<div class="handle"></div>
+
+		<section>
+
+			<div class="code">
+				<textarea name="" id="prompt" ng-model="ds.query"></textarea>
+				<button ng-click="run($event)">Query</button>
+			</div>
+
+			<div class="vhandle"></div>
+
+			<div class="data">
+
+				<table>
+					<thead>
+						<tr>
+							<th ng-repeat="(key,value) in data[0]">{{key}}</th>
+						</tr>
+						<tr class="hidden">
+							<th ng-repeat="(key,value) in data[0]" ng-click="append(key,$event)">{{key}}</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ng-repeat="row in data">
+							<td ng-repeat="(key,value) in row">{{value}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+		</section>
+
+	</div>

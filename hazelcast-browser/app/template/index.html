@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="browser">
+	<head>
+		<meta charset="UTF-8">
+		<title>AMD Browser</title>
+		<link rel="stylesheet" href="template.css">
+		<link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.css">
+		<script src="/libs/jquery/dist/jquery.js"></script>
+		<script src="/libs/jquery-ui/jquery-ui.js"></script>
+		<script src="/libs/angular/angular.js"></script>
+		<script src="/libs/angular-route/angular-route.js"></script>
+		<link rel="stylesheet" href="codemirror/codemirror.css">
+		<script src="codemirror/codemirror.js"></script>
+		<script src="codemirror/sql.js"></script>
+	</head>
+	<body>
+
+		<div ng-view></div>
+
+		<script src="app/app.js"></script>
+		<script src="app/header/headController.js"></script>
+		<script src="app/browser/dataController.js"></script>
+		<script src="app/browser/dataService.js"></script>
+		<script src="drag.fn.js"></script>
+
+	</body>
+</html>

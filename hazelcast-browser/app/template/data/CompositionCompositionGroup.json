@@ -1,0 +1,905 @@
+{
+	"data":
+	[
+		{
+			"CompositionCompositionGroupID": 9452,
+			"CompositionCompositionGroupUUID": "10ef086c-f822-491d-a0ec-0595b606bb23",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79154,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9451,
+			"CompositionCompositionGroupUUID": "f7aa73d0-3805-4466-be21-e900ef62b0d2",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79333,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9450,
+			"CompositionCompositionGroupUUID": "89bcd80d-b125-4798-8a40-0f8bfed9ac8b",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79087,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9449,
+			"CompositionCompositionGroupUUID": "08702bf2-5058-468b-a136-c40038cfd5ec",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79253,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9448,
+			"CompositionCompositionGroupUUID": "27e705e3-afb7-4c7f-b2d2-a270b53cdf02",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79192,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9447,
+			"CompositionCompositionGroupUUID": "0307b802-979b-46c8-a0dd-2c4ea177ecbc",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79401,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9446,
+			"CompositionCompositionGroupUUID": "088d7523-f121-4f1a-834d-013728c39eaf",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79213,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9445,
+			"CompositionCompositionGroupUUID": "80ccbca1-5a60-493a-8463-390f6337dad9",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79360,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9444,
+			"CompositionCompositionGroupUUID": "f7ba2b45-50a2-4ccc-825f-c37d0b715d9d",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79261,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9443,
+			"CompositionCompositionGroupUUID": "4cecfeb0-4274-4ea5-9067-e0324d48cd7c",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79176,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9442,
+			"CompositionCompositionGroupUUID": "3c0a8c37-4ed7-4e61-be43-6dae9fdc4300",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79083,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9441,
+			"CompositionCompositionGroupUUID": "63940c5a-51d9-4ec0-9dc3-19f8e50078e0",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79127,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9440,
+			"CompositionCompositionGroupUUID": "f9e426c6-ff53-40c9-b85e-a9704e86c718",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79357,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9439,
+			"CompositionCompositionGroupUUID": "2e87641c-647d-4f01-8e1a-4c981d63be37",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79183,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9438,
+			"CompositionCompositionGroupUUID": "c7e13035-2632-4fdb-b047-32a6117e64e8",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79379,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9437,
+			"CompositionCompositionGroupUUID": "8651a312-6efa-44a7-a4c7-47aff35829d2",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79256,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9436,
+			"CompositionCompositionGroupUUID": "867d97a3-0112-4d31-94ab-0470f3de4f37",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79073,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9435,
+			"CompositionCompositionGroupUUID": "a6c853f8-55a4-4b6e-83c8-8c8f1c6e260a",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80810,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9434,
+			"CompositionCompositionGroupUUID": "06008c74-9dbc-4e9b-b326-94213d26c81d",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79231,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9433,
+			"CompositionCompositionGroupUUID": "8acd2b34-6687-44b5-8af9-b4923fa60295",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80808,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9432,
+			"CompositionCompositionGroupUUID": "9c1b755b-a04b-4d4f-863e-8475160021b2",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79354,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9431,
+			"CompositionCompositionGroupUUID": "322053e6-c197-41a5-8e39-0900868c9ba7",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79212,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9430,
+			"CompositionCompositionGroupUUID": "4b03ae54-56d5-4f72-8962-e500b1abe407",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80824,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9429,
+			"CompositionCompositionGroupUUID": "2204de0d-93cb-40de-8785-e573933229bd",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80822,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9428,
+			"CompositionCompositionGroupUUID": "0e96310b-0a1c-451d-95d9-7df4581c7ae0",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80828,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9427,
+			"CompositionCompositionGroupUUID": "2875dba4-d34b-4e17-824c-231f178c6ac7",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80826,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9426,
+			"CompositionCompositionGroupUUID": "07f05f28-582f-46fe-ba6f-50db790ec8e9",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80816,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9425,
+			"CompositionCompositionGroupUUID": "16f9d9d2-6fc3-4105-8720-23594519b599",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80814,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9424,
+			"CompositionCompositionGroupUUID": "674389e6-5926-4804-863c-fc91209d4478",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80820,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9423,
+			"CompositionCompositionGroupUUID": "fe58ae60-c073-4d7e-9279-e75d26349d1e",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80818,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9422,
+			"CompositionCompositionGroupUUID": "6d3229bf-74c8-4bd3-8dea-432f76b02416",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80812,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9421,
+			"CompositionCompositionGroupUUID": "b59a4848-5a21-4dba-8784-f75a9b8e1e79",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79117,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9420,
+			"CompositionCompositionGroupUUID": "9c3a1eae-812d-46a1-b363-acdb0fb3db78",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79361,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9419,
+			"CompositionCompositionGroupUUID": "7ebaad26-6a4b-415d-8e2f-93e6bedc2954",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79080,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9418,
+			"CompositionCompositionGroupUUID": "1346045e-86d2-4d9d-ada3-61b4f82a5ab5",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79254,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9417,
+			"CompositionCompositionGroupUUID": "6465885c-c789-488b-8248-8832b8cd9cfa",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79196,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9416,
+			"CompositionCompositionGroupUUID": "cd5adcb9-2af5-41b9-8e79-884241309bfe",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79398,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9415,
+			"CompositionCompositionGroupUUID": "a9e9080a-2c62-45ac-8daf-834f7d6d2a09",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79221,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9414,
+			"CompositionCompositionGroupUUID": "c74479aa-d2bb-4524-9e51-57c29d950827",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79383,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9413,
+			"CompositionCompositionGroupUUID": "eeb73192-bbf0-4153-b054-cc9e073100ad",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80788,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9412,
+			"CompositionCompositionGroupUUID": "1711b513-ddcc-4f14-96cc-75058929e839",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79071,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9411,
+			"CompositionCompositionGroupUUID": "69c649a6-8a4b-4459-9814-04c679334475",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80786,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9410,
+			"CompositionCompositionGroupUUID": "a220d0d3-a322-4847-af7c-717b17f51f50",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79188,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9409,
+			"CompositionCompositionGroupUUID": "2601a5dc-589c-4e2d-9b09-ecdee7d31de3",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80790,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9408,
+			"CompositionCompositionGroupUUID": "5932336c-ce9d-4fc9-92ca-fa9a43c01854",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80802,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9407,
+			"CompositionCompositionGroupUUID": "213db1b4-26f3-4eff-8041-62f5d36a7960",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80800,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9406,
+			"CompositionCompositionGroupUUID": "50bbbdb2-e460-4f4e-8808-04086eb91591",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80806,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9405,
+			"CompositionCompositionGroupUUID": "849f8a6e-5419-4b4e-8f90-d024876be52c",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80804,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9404,
+			"CompositionCompositionGroupUUID": "e5fd2b15-16bf-41ed-94b1-5b1943aaca7c",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80794,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9403,
+			"CompositionCompositionGroupUUID": "53d02fc4-0b63-4766-b3f8-8200a8f92a1c",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80792,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9402,
+			"CompositionCompositionGroupUUID": "2c45883a-a5cd-4b81-a3fe-f066b7dd3f18",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80798,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9401,
+			"CompositionCompositionGroupUUID": "da8a8a07-1dd2-4b3b-b78a-7f164806ac4e",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80796,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9400,
+			"CompositionCompositionGroupUUID": "9b832087-4a37-4abe-b6f8-5a10b77c5943",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79090,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9399,
+			"CompositionCompositionGroupUUID": "a2fb8440-02c2-4529-ab8c-80ece2fc15b9",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79126,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9398,
+			"CompositionCompositionGroupUUID": "02d6117f-96a8-4bc5-9b2f-8e9c8183af7c",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79345,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9397,
+			"CompositionCompositionGroupUUID": "66a4d3fd-2bea-4102-a917-651710d5b619",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79184,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9396,
+			"CompositionCompositionGroupUUID": "55e6b45b-16b6-4743-8ce9-d187af15b4d2",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79391,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9395,
+			"CompositionCompositionGroupUUID": "3ccf33f3-9f44-42ea-8818-ed42becf01ef",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80767,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9394,
+			"CompositionCompositionGroupUUID": "e68b6664-1770-4893-843d-9c23feb52d39",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79258,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9393,
+			"CompositionCompositionGroupUUID": "fc72e551-8036-427d-ac28-d334bf1aee4e",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80765,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9392,
+			"CompositionCompositionGroupUUID": "6489841d-a74a-4976-ae70-d79b4b3cfa69",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79402,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9391,
+			"CompositionCompositionGroupUUID": "1df07138-b679-4129-8faa-9f563260a184",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80771,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9390,
+			"CompositionCompositionGroupUUID": "9d073edc-b103-444d-8d68-bd2554918926",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79230,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9389,
+			"CompositionCompositionGroupUUID": "2348ff0d-540e-4fe3-8404-ef08bf6fdf65",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80769,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9388,
+			"CompositionCompositionGroupUUID": "2e12aad5-211f-4569-8415-dbb10d79c164",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79330,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9387,
+			"CompositionCompositionGroupUUID": "6efffb59-4201-4024-a36f-8d848e037c86",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80781,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9386,
+			"CompositionCompositionGroupUUID": "49e222ef-5798-4a56-b544-e531239a41fd",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79207,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9385,
+			"CompositionCompositionGroupUUID": "2da09424-ac47-4f9e-b7b7-24279790b0f1",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80779,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9384,
+			"CompositionCompositionGroupUUID": "b86861c7-589e-4363-b452-d8a4bf9213e9",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80784,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9383,
+			"CompositionCompositionGroupUUID": "adf64c14-c7e4-4a30-bfd3-625201893b22",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80782,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9382,
+			"CompositionCompositionGroupUUID": "c232e961-a8dd-4f57-bb23-e26302f2ca9d",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80773,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9381,
+			"CompositionCompositionGroupUUID": "d55610ab-ba92-4b34-8291-a736dd384ea6",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80777,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9380,
+			"CompositionCompositionGroupUUID": "3f1da6e7-782c-45b7-830b-f501e0eb1ba9",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80775,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9379,
+			"CompositionCompositionGroupUUID": "aa751dc1-ae4a-4651-a462-077fc855a59e",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79131,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9378,
+			"CompositionCompositionGroupUUID": "b59f2e61-bf4c-4fc8-929c-c30604d74d88",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79334,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9377,
+			"CompositionCompositionGroupUUID": "6415eb5e-9c7d-4030-b0a7-0fbde5754c14",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79088,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9376,
+			"CompositionCompositionGroupUUID": "243fce3a-83a1-4dad-bdbb-d5c88e6290d0",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79237,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9375,
+			"CompositionCompositionGroupUUID": "65b2b94b-3ad7-4134-a6bf-9d9fb13db014",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79191,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9374,
+			"CompositionCompositionGroupUUID": "895159b5-981e-4e1b-8f0f-9db58fcb9c68",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79380,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9373,
+			"CompositionCompositionGroupUUID": "169fa1f1-9ff6-4eab-9a63-a225be7c507a",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79217,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9372,
+			"CompositionCompositionGroupUUID": "f5464572-6c97-4334-a92c-10ee4758b5a2",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79365,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9371,
+			"CompositionCompositionGroupUUID": "b0bc2256-ace2-4244-8d3f-895daaf9e3c3",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79072,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9370,
+			"CompositionCompositionGroupUUID": "949a6eb9-dede-40cd-b8e7-5d8cc645834f",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80759,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9369,
+			"CompositionCompositionGroupUUID": "3fb33029-bd88-4815-b82b-88dd8faf4b4f",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79180,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9368,
+			"CompositionCompositionGroupUUID": "cc429f3e-238b-4a74-8e21-bcffe24240c0",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80757,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9367,
+			"CompositionCompositionGroupUUID": "0b3eab9c-a2ef-4207-b0e3-fdfa3cc5403d",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80763,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9366,
+			"CompositionCompositionGroupUUID": "90956842-3e02-4e17-8c43-a197c0d880bf",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80761,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9365,
+			"CompositionCompositionGroupUUID": "30b3f12c-6617-4fa7-9b77-414696f7c6f1",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80755,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9364,
+			"CompositionCompositionGroupUUID": "5b5f29da-ecce-45af-b96a-a71cf761d04a",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 80753,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9363,
+			"CompositionCompositionGroupUUID": "aa801836-4c08-44a1-b259-df8c2b0707c9",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 81687,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9362,
+			"CompositionCompositionGroupUUID": "cde1f1c4-edc9-4a10-a337-53d2cdd85133",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 81689,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9361,
+			"CompositionCompositionGroupUUID": "81f2c12c-a91e-4e02-ab35-2167be7a9821",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79099,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9360,
+			"CompositionCompositionGroupUUID": "0b15c93f-e846-4b64-a588-c5086ee07499",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 81691,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9359,
+			"CompositionCompositionGroupUUID": "dc477875-2132-487d-9a9d-77c7488e8f86",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79121,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9358,
+			"CompositionCompositionGroupUUID": "427c25a1-aa4b-493a-8d3c-a47a99e5d1f0",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 81693,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9357,
+			"CompositionCompositionGroupUUID": "36cd92ef-bea0-46ba-8fd3-9cdcbd111de4",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79359,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9356,
+			"CompositionCompositionGroupUUID": "f474aa34-8b8b-4d26-8165-0cf6b6ecb702",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79195,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9355,
+			"CompositionCompositionGroupUUID": "772ed82e-77ea-43fc-83ba-49232c251a9a",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79390,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9354,
+			"CompositionCompositionGroupUUID": "225f9f1e-d63d-49a1-8511-d6655efc3fd9",
+			"CompositionGroupKey": 46,
+			"CompositionKey": 79259,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		},
+		{
+			"CompositionCompositionGroupID": 9353,
+			"CompositionCompositionGroupUUID": "14f2c52b-244c-47bc-83ab-53f0a214f1d0",
+			"CompositionGroupKey": 45,
+			"CompositionKey": 81685,
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35",
+			"AuditComment": ""
+		}
+	]
+}

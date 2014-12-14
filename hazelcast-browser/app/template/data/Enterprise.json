@@ -1,0 +1,11 @@
+{
+	"Assets":{
+		"Ticker": "",
+		"AsOfTime": ""
+	},
+	"Prices":{
+		"Ticker": "",
+		"Value": "",
+		"AsOfTime": ""
+	}
+}

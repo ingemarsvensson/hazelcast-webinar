@@ -1,0 +1,327 @@
+{
+	"data":
+	[
+		{
+			"CompositionGroupKey": 46,
+			"TenantID": 1,
+			"CompositionGroupCode": "GRPUKE2",
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35"
+		},
+		{
+			"CompositionGroupKey": 45,
+			"TenantID": 1,
+			"CompositionGroupCode": "GRPUKE",
+			"CreatedBy": "hsbcprod@tc2.apt",
+			"CreatedDate": "2014-11-11 11:03:35"
+		},
+		{
+			"CompositionGroupKey": 44,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_Eq_Parametric",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 43,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_Eq_Parametric_BM",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 42,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_FI_Parametric",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 41,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_FI_Parametric_BM",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 40,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_Eq_MC",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 39,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_Eq_MC_BM",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 38,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_FI_MC",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 37,
+			"TenantID": 1,
+			"CompositionGroupCode": "French_FI_MC_BM",
+			"CreatedBy": "kiel.bristow@hsbc.com",
+			"CreatedDate": "2014-11-07 18:40:10"
+		},
+		{
+			"CompositionGroupKey": 36,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_Eq_Parametric",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 35,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_Eq_Parametric_BM",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 34,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_FI_Parametric",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 33,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_FI_Parametric_BM",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 32,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_Eq_MC",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 31,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_Eq_MC_BM",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 30,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_FI_MC",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 29,
+			"TenantID": 14,
+			"CompositionGroupCode": "French_FI_MC_BM",
+			"CreatedBy": "hsbc061114@tc2.apt",
+			"CreatedDate": "2014-11-06 12:28:46"
+		},
+		{
+			"CompositionGroupKey": 28,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_Parametric",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 27,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_Parametric_Bench",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 26,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_FI_Parametric",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 25,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_FI_Parametric_Bench",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 24,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_MonteCarlo",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 23,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_MonteCarlo_Bench",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 22,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_FI_MonteCarlo",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 21,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_FI_MonteCarlo_Bench",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-11-03 18:09:26"
+		},
+		{
+			"CompositionGroupKey": 20,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRPUKE2",
+			"CreatedBy": "testuser@sungard.com",
+			"CreatedDate": "2014-10-30 16:50:45"
+		},
+		{
+			"CompositionGroupKey": 19,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRPUKE",
+			"CreatedBy": "testuser@sungard.com",
+			"CreatedDate": "2014-10-30 16:50:45"
+		},
+		{
+			"CompositionGroupKey": 18,
+			"TenantID": 5,
+			"CompositionGroupCode": "PERFORMANCEUSTGROUP",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-10-17 13:19:31"
+		},
+		{
+			"CompositionGroupKey": 17,
+			"TenantID": 5,
+			"CompositionGroupCode": "UKSTV_MA",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-09-22 14:54:41"
+		},
+		{
+			"CompositionGroupKey": 16,
+			"TenantID": 5,
+			"CompositionGroupCode": "UKSTV_EQ",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-09-22 14:54:41"
+		},
+		{
+			"CompositionGroupKey": 15,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_FI_MTV",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-09-22 14:53:28"
+		},
+		{
+			"CompositionGroupKey": 14,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_MTV",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-09-22 14:53:28"
+		},
+		{
+			"CompositionGroupKey": 13,
+			"TenantID": 5,
+			"CompositionGroupCode": "French_Eq_STV",
+			"CreatedBy": "hsbcuatuser@tc2.apt",
+			"CreatedDate": "2014-09-22 14:53:28"
+		},
+		{
+			"CompositionGroupKey": 12,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-BNC",
+			"CreatedBy": "testuser",
+			"CreatedDate": "2014-09-17 14:33:43"
+		},
+		{
+			"CompositionGroupKey": 11,
+			"TenantID": 4,
+			"CompositionGroupCode": "MST-GRP-001",
+			"CreatedBy": "testuser",
+			"CreatedDate": "2014-09-17 14:33:43"
+		},
+		{
+			"CompositionGroupKey": 10,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-CMP",
+			"CreatedBy": "testuser",
+			"CreatedDate": "2014-09-17 14:33:43"
+		},
+		{
+			"CompositionGroupKey": 9,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-FIRA",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 8,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-PLEV4",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 7,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-PLEV3a",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 6,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-PLEV3",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 5,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-PLEV2",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 4,
+			"TenantID": 4,
+			"CompositionGroupCode": "GRP-PLEV",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 3,
+			"TenantID": 4,
+			"CompositionGroupCode": "2",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 2,
+			"TenantID": 4,
+			"CompositionGroupCode": "3",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		},
+		{
+			"CompositionGroupKey": 1,
+			"TenantID": 4,
+			"CompositionGroupCode": "1",
+			"CreatedBy": "fdbupload",
+			"CreatedDate": "2014-09-03 14:26:18"
+		}
+	]
+}

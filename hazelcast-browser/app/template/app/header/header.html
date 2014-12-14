@@ -1,0 +1,18 @@
+{{routeParamsToArray($parent.routeParams)}}
+
+<header ng-controller="head">
+	<div class="brand">
+		<a href="#">SunGard</a> <span><a href="#/data">Hazelcast Browser</a></span>
+	</div>
+
+	<ul class="breadcrumb" ng-if="$parent.routeParams.database">
+		<li ng-if="$parent.routeParams.database"><a href="#/data/{{$parent.routeParams.database}}">{{$parent.routeParams.database}}</a></li>
+		<li ng-if="$parent.routeParams.collection"><a href="#/data/{{$parent.routeParams.collection}}">{{$parent.routeParams.collection}}</a></li>
+	</ul>
+
+	<ul class="quick">
+		<li><a href="#">Permissions</a></li>
+		<li><a href="#">Healthcheck</a></li>
+		<li><a href="#">ETL Jobs</a></li>
+	</ul>
+</header>

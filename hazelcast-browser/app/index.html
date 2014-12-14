@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="amd">
+<head>
+	<meta charset="UTF-8">
+	<title>AMD Data Browser</title>
+
+	<link rel="stylesheet" href="/assets/less/styles.css">
+
+	<script src="/libs/jquery/dist/jquery.js"></script>
+	<script src="/libs/angular/angular.js"></script>
+	<script src="/libs/angular-route/angular-route.js"></script>
+	<script src="/libs/angular-bootstrap/ui-bootstrap.js"></script>
+	<script src="/libs/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+	<script src="/libs/lodash/dist/lodash.min.js"></script>
+	<script src="/libs/moment/moment.js"></script>
+	<script src="/libs/moment-duration-format/lib/moment-duration-format.js"></script>
+
+	<script src="//localhost:35729/livereload.js"></script>
+
+</head>
+<body>
+	
+	<div ng-view></div>
+
+	<script src="/amd/amd.js"></script>
+	<script src="/amd/routes.js"></script>
+
+	<script src="/amd/utilities/filterSlice.js"></script>
+
+	<script src="/amd/navigation/topnavController.js"></script>
+
+	<script src="/amd/dashboard/dashboardController.js"></script>
+	<script src="/amd/dashboard/jobInformationDirective.js"></script>
+
+	<script src="/amd/dataService.js"></script>
+
+</body>
+</html>
